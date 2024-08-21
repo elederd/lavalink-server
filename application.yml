@@ -5,7 +5,7 @@ server: # REST and WS server
     enabled: false # Whether to enable HTTP/2 support
 plugins:
   dunctebot:
-    ttsLanguage: 'en-US' # language of the TTS engine
+    ttsLanguage: 'es-ES' # language of the TTS engine
     sources:
       # true = source enabled, false = source disabled
       getyarn: true # www.getyarn.io
