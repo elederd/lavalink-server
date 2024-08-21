@@ -1,3 +1,4 @@
+require('dotenv').config();
 server: # REST and WS server
   port: 2333 # The port that the server listens on
   address: 0.0.0.0
